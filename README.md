@@ -1,16 +1,17 @@
-### Hi there 👋
+## About Me
+Hi, I'm Chris.
 
-<!--
-**chow2n/chow2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a determined data analyst who loves learning.
+- Currently, I'm working on becoming an expert in SQL and Tableau.
+- Later, I intend to learn PowerBI.
+- Here on my portfolio, you can view some of the projects I'm most proud of.
 
-Here are some ideas to get you started:
+<details>
+<summary>My Top Languages</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages |
+|-----:|-----------|
+|     1| SQL       |
+|     2| Tableau   |
+|     3| Python    |
+
