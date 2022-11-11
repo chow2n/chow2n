@@ -7,7 +7,7 @@ Hi, I'm Chris.
 - Here on my portfolio, you can view some of the projects I'm most proud of.
 
 <details>
-<summary>My Top Languages</summary>
+<summary>Favorite Languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
