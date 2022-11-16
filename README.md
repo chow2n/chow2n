@@ -3,8 +3,8 @@ Hi, I'm Chris.
 
 - I'm a determined data analyst who loves learning.
 - Studied Python machine learning, databases, and data visualization at Cal Poly Pomona.
-- Currently, I'm working on becoming an expert in SQL and Tableau.
-- Later, I intend to learn PowerBI.
+- Striving to become an expert in SQL and Tableau.
+- Currently working on an AdventureWorks SQL Database Analysis in MS SQL.
 - Here on my portfolio, you can view some of the projects I'm most proud of.
 
 <details>
