@@ -7,13 +7,6 @@ Hi, I'm Chris.
 - Currently looking for new opportunities while training in Python, Postgre, and MS SQL.
 - Here on my portfolio, you can view some of the projects I'm most proud of.
 
-<details>
-<summary>Favorite Languages</summary>
-
-| SQL       |
-| Python    |
-| Tableau   |
-
 | Favorite Languages |
 |-----------|
 | SQL       |
