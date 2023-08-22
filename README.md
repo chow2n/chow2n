@@ -9,7 +9,11 @@ Hi, I'm Chris.
 
 <details>
 <summary>Favorite Languages</summary>
-  
+
+| SQL       |
+| Python    |
+| Tableau   |
+
 | Languages |
 |-----------|
 | SQL       |
