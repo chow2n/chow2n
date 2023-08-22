@@ -9,13 +9,6 @@ Hi, I'm Chris.
 
 <details>
 <summary>Favorite Languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| SQL       |
-|     2| Python    |
-|     3| Tableau   |
-
 | Languages |
 |-----------|
 | SQL       |
