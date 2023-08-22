@@ -16,3 +16,9 @@ Hi, I'm Chris.
 |     2| Python    |
 |     3| Tableau   |
 
+| Languages |
+|-----------|
+| SQL       |
+| Python    |
+| Tableau   |
+
