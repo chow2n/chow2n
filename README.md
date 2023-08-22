@@ -9,6 +9,7 @@ Hi, I'm Chris.
 
 <details>
 <summary>Favorite Languages</summary>
+  
 | Languages |
 |-----------|
 | SQL       |
