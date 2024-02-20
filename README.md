@@ -11,5 +11,4 @@ Hi, I'm Chris.
 |-----------|
 | SQL       |
 | Python    |
-| Tableau   |
 
