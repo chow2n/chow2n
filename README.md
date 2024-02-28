@@ -9,6 +9,6 @@ Hi, I'm Chris.
 
 | Favorite Languages |
 |-----------|
-| SQL       |
 | Python    |
+| SQL       |
 
